@@ -1,0 +1,23 @@
+.sucees{
+    color: blueviolet;
+    border: 100px;
+    border-color: black;
+    border-radius: 1%;
+    border-width: 0.1cap;
+    border-style: dotted;
+    background-color: aqua;
+    text-align: center;
+}
+
+.failure{
+    color: rgb(227, 18, 199);
+    padding: 2cm;
+    background-color: rgb(34, 206, 117);
+    text-align: center;
+    text-shadow: 10px;
+    border-color: rgb(234, 7, 7);
+    border-radius: 12%;
+    border-width: 0.1cap;
+    border-style: dashed;
+    
+}
